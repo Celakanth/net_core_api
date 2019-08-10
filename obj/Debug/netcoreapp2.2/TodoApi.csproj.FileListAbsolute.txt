@@ -12,3 +12,17 @@
 /home/christian/christianRnd/NetCode/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
 /home/christian/christianRnd/NetCode/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
 /home/christian/christianRnd/NetCode/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/christian/Documents/development/NetCore/net_core_api/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/christian/Documents/development/NetCore/net_core_api/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/christian/Documents/development/NetCore/net_core_api/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/christian/Documents/development/NetCore/net_core_api/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/christian/Documents/development/NetCore/net_core_api/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/christian/Documents/development/NetCore/net_core_api/obj/Debug/netcoreapp2.2/TodoApi.pdb
